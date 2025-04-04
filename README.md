@@ -1,0 +1,2 @@
+# UserReaserchMultyAgents
+模拟用户研究调研并生成一份用户画像和痛点报告
